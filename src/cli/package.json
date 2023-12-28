@@ -1,0 +1,10 @@
+{
+  "name": "@graphql-js-tutorial/cli",
+  "version": "1.0.0",
+  "description": "https://graphql.org/graphql-js/",
+  "main": "main.js",
+  "type": "module",
+  "author": "Brian Cristante",
+  "license": "UNLICENSED",
+  "private": true
+}

@@ -1,0 +1,6 @@
+query GetMessage($id: ID!) {
+    getMessage(id: $id) {
+        content
+        author
+    }
+}

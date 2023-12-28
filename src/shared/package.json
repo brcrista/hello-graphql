@@ -1,0 +1,9 @@
+{
+  "name": "@graphql-js-tutorial/shared",
+  "version": "1.0.0",
+  "description": "https://graphql.org/graphql-js/",
+  "type": "module",
+  "author": "Brian Cristante",
+  "license": "UNLICENSED",
+  "private": true
+}

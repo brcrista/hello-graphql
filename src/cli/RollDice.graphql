@@ -1,0 +1,7 @@
+query RollDice($count: Int!, $sides: Int) {
+    randomDie(sides: $sides) {
+        roll
+        round1: rollMany(count: $count)
+        round2: rollMany(count: $count)
+    }
+}
